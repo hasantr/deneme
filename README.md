@@ -1,5 +1,5 @@
 # deneme
-
-bu develop kısmına sonradan eklendi
-
 develop
+bu develop kısmına sonradan eklendi
+develop 2
+
