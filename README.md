@@ -11,4 +11,6 @@ develop ikinin ilk işi
 develop ikinin ikinci işi
 develop2_son
 develop3
+develop3 ün yaptığı ilk işi
+develoop üçün yaptığı ikinci iş
 develop3_son
